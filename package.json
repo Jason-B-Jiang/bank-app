@@ -1,0 +1,17 @@
+{
+  "name": "bank-app",
+  "version": "1.0.0",
+  "description": "Banking stuff yo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "start": "npx nodemon src/index.js"
+  },
+  "author": "Jason Jiang",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
